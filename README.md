@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Attendance Tracker — Setup Guide
 
 This repo contains a shell script that builds the full workspace for the Student Attendance Tracker. Instead of manually creating folders, copying files, and editing config by hand, you just run one script and it handles everything for you.
@@ -128,3 +129,6 @@ The file `Helpers/config.json` controls how the tracker behaves. The setup scrip
 - **Python 3** — needed to run `attendance_checker.py`
 - **Bash** — the script works on Linux and macOS
 - Standard tools like `sed`, `tar`, and `cp` — these come pre-installed on any Unix system
+=======
+# deploy_agent_mnoah10
+>>>>>>> a00a382c1a51cdc2280b139ab04d8dcfb4628bd0
